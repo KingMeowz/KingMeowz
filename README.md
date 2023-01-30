@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm KingMeowz</h1>
-<h3 align="center">A passionate Python Developer on Indonesia</h3>
+<h3 align="center">A Passionate Python Developer in Indonesia</h3>
 
 - 🌱 I’m currently learning **Flask, Django, Machine Learning**
 
