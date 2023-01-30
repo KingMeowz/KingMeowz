@@ -5,7 +5,6 @@
 
 - 💬 Ask me about **Jupyter Notebook, Python, Latex, C++, Javascript**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
