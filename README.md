@@ -6,7 +6,7 @@
  🔭 Data Science Student at Sumatera Institute of Technology (6th semester)
 </p> 
  <p align="left">
- 🔥 Interested in Data Analyst, Data Science, and Artificial Intelligence also data Engineer 
+ 🔥 Interested in Data Analyst, Data Science, and Artificial Intelligence also Data Engineer (All About Data😀)
 </p>
 <p align="left">
  📫 How to reach me <a href="mailto:kita.dev1905@gmail.com"><strong>My Email😀</strong></a>
