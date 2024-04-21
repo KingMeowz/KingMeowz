@@ -94,14 +94,6 @@
     </a>
   </p>
 
-<p align="left">
-<a href="https://github.com/KingMeowz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KingMeowz&show_icons=true&theme=tokyonight" alt="KingMeowz" /></p>
-<br />
-<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KingMeowz&show_icons=true&theme=tokyonight&layout=compact" alt="KingMeowz" /></p>
-</a>
-</p>
-
 ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 ## Find me and let's connect 
