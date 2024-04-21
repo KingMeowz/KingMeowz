@@ -115,4 +115,4 @@
 
 
 ## Interest With My Project ?
-<a href="https://github.com/Databitss" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/github-%23E4405F.svg?&style=for-the-badge&logo=github&logoColor=white" /></a> 
+<a href="https://github.com/Databitss" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white" /></a> 
