@@ -1,9 +1,9 @@
-# Hi there! Welcome to Abdurrahman's Github Repository <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
+# Welcome to Abdurrahman's Github Repository <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
 ## 🚀 About Me
 
 <p align="left">
- 🔭 Data Science Student at Sumatera Institute of Technology (6th semester)
+ 🔭 AI Engineer
 </p> 
  <p align="left">
  🔥 Interested in Data Analyst, Data Science, and Artificial Intelligence also Data Engineer (All About Data😀)
