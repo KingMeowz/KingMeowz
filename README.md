@@ -6,10 +6,10 @@
  🔭 Website Builder | AI Engineer | Data Engineer 
 </p> 
  <p align="left">
- 🔥 Interested in Data Analyst, Data Science, and Artificial Intelligence also Data Engineer (All About Data😀)
+ 🔥 Interested jobs in Data Science and AI, Website Builder and Data Engineer.
 </p>
 <p align="left">
- 📫 How to reach me <a href="mailto:kita.dev1905@gmail.com"><strong>My Email😀</strong></a>
+ 📫 How to reach me: <a href="mailto:kita.dev1905@gmail.com"><strong>My Email😀</strong></a>
 </p>
 <br>
 <h3 align="left">Languages and Tools that I've used and learned/learning:</h3>
